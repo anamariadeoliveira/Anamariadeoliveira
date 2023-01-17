@@ -4,6 +4,11 @@
 - 🌱 Estudando Python, SQL(Banco de Dados), Git e Github
 
  <a href="https://www.linkedin.com/in/ana-maria-cruvinel-gomes-de-oliveira-406a91130/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+ 
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacruvinelgo&show_icons=true&theme=tokyonight)
 
 
    
