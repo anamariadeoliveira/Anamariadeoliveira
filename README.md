@@ -6,9 +6,10 @@
  
  
  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an&show_icoacruvinelgons=true&theme=transparent)
  
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacruvinelgo&show_icons=true&theme=tokyonight)
+
+
 
 
 
