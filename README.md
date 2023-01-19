@@ -4,9 +4,11 @@
 - 🌱 Estudando Python, SQL(Banco de Dados), Git e Github
 
  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacruvinelgo)](https://github.com/anacruvinelgo/github-readme-stats)
  
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an&show_icoacruvinelgons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacruvinelgo&hide=contribs,prs)
+
+
  
 
  
