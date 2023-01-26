@@ -28,3 +28,4 @@
 
 
 
+![Snake animation](https://github.com/anacruvinelgo/anacruvinelgo/blob/output/github-contribution-grid-snake.svg)
