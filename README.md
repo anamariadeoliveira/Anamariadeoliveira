@@ -1,7 +1,7 @@
 ### Olá, eu sou a Ana Maria
 
 - 🔭 Atualmente em transição de carreira
-- 🌱 Estudando Lógica de Programação, Python, SQL(Banco de Dados), Git e Github, Programação Orientada a Objetos.
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas, Lógica de Programação, Python, SQL(Banco de Dados), Git e Github, Programação Orientada a Objetos.
 
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacruvinelgo)](https://github.com/anacruvinelgo/github-readme-stats)
